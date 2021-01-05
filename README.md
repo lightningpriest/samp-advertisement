@@ -19,5 +19,6 @@ Thanks!
 Add this to your #define :  
 ```bash  
 #define COLOR_GREY        (0x888888C8)
+#define COLOR_FADVERT     (0x00AA00FF)
 ```  
 Replace pPhone with your own enum.
