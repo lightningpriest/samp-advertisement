@@ -15,3 +15,9 @@ Additional Notes :
 This is originally made by myself, not an copy-pasteing from another script.  
 Please add me as credit if you want to use it.  
 Thanks!  
+  
+Add this to your #define :  
+```bash  
+#define COLOR_GREY        (0x888888C8)
+```  
+Replace pPhone with your own enum.
